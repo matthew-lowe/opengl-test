@@ -1,7 +1,7 @@
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include <main.h>
+#include "main.h"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height) {
     // When the window is resized, set the new viewport size to be the same as the new window size
